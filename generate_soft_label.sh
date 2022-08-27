@@ -1,0 +1,1 @@
+python -u generate_soft_label.py data/ 2.0 0.75 2.0
